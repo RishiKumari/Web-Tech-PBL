@@ -1,3 +1,5 @@
 student list 
 1. Rishika 
-2. Akash 
+2. Tarun
+3. Shibuu
+ 
